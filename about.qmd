@@ -13,7 +13,6 @@ about:
     - icon: github
       text: Github
       href: https://github.com
-
 ---
 
-About this blog
+Les comparto mis avances desarrollados durante mi estancia en la maestría

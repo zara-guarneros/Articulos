@@ -8,27 +8,22 @@ categories: [tutoral]
 lang: es
 draft: false
 format: revealjs
-
-
 ---
 
 ## Influencia de Burkholderia ambifara y Azolla spp. sobre la germinación y crecimiento de Lactuca sativa L., en un sistema de raíz flotante
 
-:::: {.columns}
-
+::: columns
 ::: {.column width="40%"}
 ![](azolla.jpg){width="60%"}
 :::
 
-
 ::: {.column width="60%"}
 ![](levadura.jpg){width="60%"}
-
 :::
-::::
+:::
 
+## Comité tutorial
 
-## Comité tutorial 
 Directora: Dra. Gabriela Sánchez Viveros
 
 Co-directora: Dra. Liliana Lara Capistran
@@ -38,33 +33,31 @@ Asesora: Dra. Rosalba Argumedo Delira
 Asesor externo: Dr. Luis Guillermo Hernández Montiel
 
 ## Hipótesis
-El uso de Burkholderia ambifara   y Azolla spp. como promotores de crecimiento y fuente de nitrógeno tienen un efecto positivo en la germinación y crecimiento de Lactuca sativa L., en un sistema de raíz flotante. 
+
+El uso de Burkholderia ambifara y Azolla spp. como promotores de crecimiento y fuente de nitrógeno tienen un efecto positivo en la germinación y crecimiento de Lactuca sativa L., en un sistema de raíz flotante.
 
 ## Pregunta de investigación
-¿Cuál será la influencia de Burkholderia ambifara  y Azolla spp sobre la germinación y crecimiento de Lactuca sativa L., en un sistema de raíz flotante?
+
+¿Cuál será la influencia de Burkholderia ambifara y Azolla spp sobre la germinación y crecimiento de Lactuca sativa L., en un sistema de raíz flotante?
 
 ## Objetivos
 
-> —Objetivo general 
+> —Objetivo general
 
 Evaluar el efecto de Burkholderia ambifara y Azolla spp. sobre la germinación y crecimiento de Lactuca sativa L., en un sistema de raíz flotante.
 
 > —Objetivos particulares
 
-+ Caracterizar in-vitro a Burkholderia ambifara como microorganismo promotor de crecimiento en Lactuca sativa L.
+-   Caracterizar in-vitro a Burkholderia ambifara como microorganismo promotor de crecimiento en Lactuca sativa L.
 
-+ Evaluar el efecto de Burkholderia ambifara y dos especies de Azolla en parámetros morfométricos y fisiológicos de Lactuca sativa L., en un sistema de raíz flotante. 
+-   Evaluar el efecto de Burkholderia ambifara y dos especies de Azolla en parámetros morfométricos y fisiológicos de Lactuca sativa L., en un sistema de raíz flotante.
 
+## 
 
-##  
 ::: {layout="[1,2]"}
-
 **Pruebas de germinación**
 
 ::: {.column width="60%"}
 ![](germinación.jpg){width="200%"}
 :::
 :::
-
-
-

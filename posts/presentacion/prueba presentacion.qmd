@@ -7,7 +7,10 @@ date-format: "[Xalapa, Ver.] D MMMM YYYY"
 categories: [tutoral]
 lang: es
 draft: false
+
+
 format: revealjs
+    
 ---
 
 ## Influencia de Burkholderia ambifara y Azolla spp. sobre la germinación y crecimiento de Lactuca sativa L., en un sistema de raíz flotante

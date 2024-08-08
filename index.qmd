@@ -1,5 +1,5 @@
 ---
-title: "Artículos"
+title: "Avances de investigación"
 listing:
   contents: posts
   sort: "date desc"

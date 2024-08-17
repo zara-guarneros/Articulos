@@ -64,6 +64,6 @@ Evaluar el efecto de Burkholderia ambifara y Azolla spp. sobre la germinación y
 **Pruebas de germinación**
 
 ::: {.column width="60%"}
-![](germinación.jpg){width="200%"}
+![](germinación.jpg){width="300%"}
 :::
 :::
